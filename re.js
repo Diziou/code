@@ -1,0 +1,9 @@
+{
+"code":"0",
+"developer":"K",
+"versionCode":"1",
+"versionName":"v1.0",
+"title":"",
+"content":"检查到有新版本",
+"url":""
+}
