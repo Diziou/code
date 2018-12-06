@@ -1,5 +1,5 @@
 {
-"code":"0",
+"code":"1",
 "developer":"K",
 "versionCode":"1",
 "versionName":"v1.0",
