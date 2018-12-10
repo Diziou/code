@@ -1,9 +1,12 @@
 {
+"permission":"1",
+
+
 "code":"1",
-"developer":"K",
+"developer":"DONG",
 "versionCode":"1",
-"versionName":"v1.0",
+"versionName":"1.0",
 "title":"",
-"content":"检查到有新版本",
+"content":"更新内容",
 "url":""
 }
