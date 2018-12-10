@@ -1,5 +1,5 @@
 {
-"permission":"1",
+"permission":"0",
 "code":"1",
 "developer":"DONG",
 "versionCode":"1",
