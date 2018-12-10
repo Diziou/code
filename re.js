@@ -4,7 +4,7 @@
 "developer":"DONG",
 "versionCode":"1",
 "versionName":"1.0",
-"title":"",
+"title":"🌚",
 "content":"更新内容",
-"url":""
+"url":"http://ys-n.ys168.com/608002112/k3M472276IM73htiTjf/Auto.js-4.0.5Alpha-plugin-4.0.5.Alpha-release.apk"
 }
