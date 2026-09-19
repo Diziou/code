@@ -41,8 +41,10 @@ rtp://239.253.224.122:8000?fcc=119.184.120.108:8027
 rtp://239.253.224.186:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4美洲.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21062215392161397058.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",CCTV4美洲
 rtp://239.253.224.187:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="山东卫视" group-title="山东频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",山东卫视
-rtp://239.253.224.78:8000?fcc=119.184.120.108:8027
+#EXTINF:-1 tvg-name="山东卫视4K" group-title="山东频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch25081411425529721444.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",山东卫视4K
+rtp://239.253.224.172:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="山东卫视" group-title="山东频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",山东卫视
+# rtp://239.253.224.78:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="山东齐鲁" group-title="山东频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东齐鲁.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",山东齐鲁
 rtp://239.253.224.114:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="山东文旅" group-title="山东频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东文旅.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",山东文旅
@@ -63,8 +65,6 @@ rtp://239.253.224.25:8000?fcc=119.184.120.108:8027
 rtp://239.253.224.59:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="山东海洋频道" group-title="山东频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东海洋频道.png",山东海洋频道
 rtp://239.253.224.67:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="山东卫视4K" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch25081411425529721444.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",山东卫视4K
-rtp://239.253.224.172:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch25092214081313070909.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",江苏卫视4K
 rtp://239.253.224.133:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="湖南卫视4K" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch25092214073911761412.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",湖南卫视4K
@@ -81,30 +81,30 @@ rtp://239.253.224.200:8000?fcc=119.184.120.108:8027
 rtp://239.253.224.61:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="广东卫视4K" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch25062414535257116401.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",广东卫视4K
 rtp://239.253.224.108:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",北京卫视
-rtp://239.253.224.85:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541521964962.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",浙江卫视
-rtp://239.253.224.84:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",湖南卫视
-rtp://239.253.224.82:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541568689826.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",东方卫视
-rtp://239.253.224.86:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116384379542816.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",江苏卫视
-rtp://239.253.224.83:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",北京卫视
+# rtp://239.253.224.85:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541521964962.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",浙江卫视
+# rtp://239.253.224.84:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",湖南卫视
+# rtp://239.253.224.82:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541568689826.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",东方卫视
+# rtp://239.253.224.86:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116384379542816.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",江苏卫视
+# rtp://239.253.224.83:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/安徽卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",安徽卫视
 rtp://239.253.224.87:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天津卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15050917541659846769.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",天津卫视
 rtp://239.253.224.89:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15050917541756096231.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",辽宁卫视
 rtp://239.253.224.92:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch12051116392957055081.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",深圳卫视
-rtp://239.253.224.91:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch12051116392957055081.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",深圳卫视
+# rtp://239.253.224.91:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17082318094203998689.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",东南卫视
 rtp://239.253.224.105:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖北卫视.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050917541519800547.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",湖北卫视
 rtp://239.253.224.88:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541650823873.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",广东卫视
-rtp://239.253.224.90:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541650823873.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",广东卫视
+# rtp://239.253.224.90:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑龙江卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch12051116400952898093.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",黑龙江卫视
 rtp://239.253.224.93:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/贵州卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17121814402415050847.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",贵州卫视
@@ -117,8 +117,8 @@ rtp://239.253.224.112:8000?fcc=119.184.120.108:8027
 rtp://239.253.224.38:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/海南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120116181598810422.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",海南卫视
 rtp://239.253.224.179:8000?fcc=119.184.120.108:8027
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11122400393964414144.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",四川卫视
-rtp://239.253.224.180:8000?fcc=119.184.120.108:8027
+# #EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11122400393964414144.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",四川卫视
+# rtp://239.253.224.180:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120118345500084693.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",江西卫视
 rtp://239.253.224.47:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120114524702485505.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800",广西卫视
@@ -333,3 +333,5 @@ rtp://239.253.224.132:8000?fcc=119.184.120.108:8027
 rtp://239.253.224.158:8000?fcc=119.184.120.108:8027
 #EXTINF:-1 tvg-name="收视指南" group-title="轮播频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/收视指南.png",收视指南
 rtp://239.253.224.124:8000?fcc=119.184.120.108:8027
+#EXTINF:-1 tvg-name="客厅" group-title="轮播频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/收视指南.png",客厅
+rtsp://192.168.100.1:25544/live/O8joG11kJ2lWe_ProfileToken_0?expired=20260919213759
